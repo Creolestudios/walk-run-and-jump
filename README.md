@@ -15,6 +15,8 @@ $ npm run dev
 This command will start a local server, and you can access the demo in your web browser.
 ```
 
+To view a video of this demo, please follow this link (https://www.awesomescreenshot.com/video/24898809?key=90222fbfd18e3abc4c206a50bf851a7a).
+
 ## Functionality
 
 ### `Walking, Running, and Jumping:`
